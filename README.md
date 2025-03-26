@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-  Awesome SLAM for Humanoid Robot 
+  Awesome SLAM for Humanoid/Legged Robot 
   </h1>
 </p>
 
