@@ -24,12 +24,14 @@ Feel free to share this list with others!
 
 # Papers
 
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`IEEE Signal Processing Letters`|[A 3D reconstruction and relocalization method for humanoid welding robots](https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/blob/pdf/A_3D_Reconstruction_and_Relocalization_Method_for_Humanoid_Welding_Robots.pdf)|---|---|
+|2024|`arXiv`|[Navila: Legged robot vision-language-action model for navigation](https://arxiv.org/pdf/2412.04453)|[![Github stars](https://img.shields.io/github/stars/yang-zj1026/legged-loco.svg)](https://github.com/yang-zj1026/legged-loco)|[website](https://navila-bot.github.io/)|
 |2024|`RAL`|[Leg-KILO: Robust Kinematic-Inertial-Lidar Odometry for Dynamic Legged Robots](https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/blob/pdf/Leg-KILO%20Robust%20Kinematic-Inertial-Lidar%20Odometry%20for%20Dynamic%20Legged%20Robots.pdf)|[![Github stars](https://img.shields.io/github/stars/ouguangjun/Leg-KILO.svg)](https://github.com/ouguangjun/Leg-KILO)|[dataset](https://github.com/ouguangjun/legkilo-dataset)|
 |2024|`ICRA`|[Optistate: State estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/pdf/2401.16719)|[![Github stars](https://img.shields.io/github/stars/AlexS28/OptiState.svg)](https://github.com/AlexS28/OptiState)|---|
 |2023|`ICRA`|[Visual-inertial and leg odometry fusion for dynamic locomotion](https://arxiv.org/pdf/2210.02127)|---|---| 
@@ -37,36 +39,57 @@ Feel free to share this list with others!
 |2023|`RAL`|[Tunable impact and vibration absorbing neck for robust visual-inertial state estimation for dynamic legged robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10027207)|---|---|
 |2023|`International Conference on Robotics and Mechatronics`|[Comparative evaluation of rgb-d slam methods for humanoid robot localization and mapping](https://arxiv.org/pdf/2401.02816)|---|---|
 |2023|`TASE`|[Humanoid loco-manipulations using combined fast dense 3D tracking and SLAM with wide-angle depth-images](https://hal.science/hal-04125159v1/file/2023_TASE_Chappellet.pdf)|---|---|
+|2022|`ICRA`|[Periodic SLAM: Using cyclic constraints to improve the performance of visual-inertial SLAM on legged robots](https://par.nsf.gov/servlets/purl/10335323)|---|[video](https://www.youtube.com/watch?v=QygyDjVy5nY)|
+|2022|`RAL`|[Online kinematic calibration for legged robots](https://rexlab.ri.cmu.edu/papers/onlinecalib.pdf)|---|---|
 |2022|`TRO`|[Vilens: Visual, inertial, lidar, and leg odometry for all-terrain legged robots](https://arxiv.org/pdf/2107.07243)|---|---|
+|2022|`TRO`|[Rloc: Terrain-aware legged locomotion using reinforcement learning and optimal control](https://arxiv.org/pdf/2012.03094)|---|---|
 |2022|`RAL`|[Step: State estimator for legged robots using a preintegrated foot velocity factor](https://arxiv.org/pdf/2202.05572)|---|---|
 |2022|`Conference on robot learning`|[Learning inertial odometry for dynamic legged robot state estimation](https://proceedings.mlr.press/v164/buchanan22a/buchanan22a.pdf)|---|---| 
+|2022|`arXiv`|[A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors](https://arxiv.org/pdf/2211.14432)|[![Github stars](https://img.shields.io/github/stars/jerredchen/A1_SLAM.svg)](https://github.com/jerredchen/A1_SLAM)|---|
+|2021|`IEEE Sensors Letters`|[On state estimation for legged locomotion over soft terrain](https://arxiv.org/pdf/2101.02279)|---|---|
+|2021|`ICRA`|[Contact forces preintegration for estimation in legged robotics using factor graphs](https://hal.science/hal-02991717v1/file/ICRA_2021_MFourmy.pdf)|---|---| 
+|2021|`RAL`|[Legged robot state estimation with dynamic contact event information](https://ieeexplore.ieee.org/abstract/document/9468900)|---|---|
 |2021|`RAL`|[Online Object Searching by a Humanoid Robot in an Unknown Environment](https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/blob/pdf/2021_RAL_Tsuru.pdf)|---|---|
 |2020|`ICRA`|[Preintegrated velocity bias estimation to overcome contact nonlinearities in legged robot odometry](https://arxiv.org/pdf/1910.09875)|---|---|
-|2020|`IJRR`|[Contact-aided invariant extended Kalman filtering for robot state estimation](https://journals.sagepub.com/doi/pdf/10.1177/0278364919894385?casa_token=uQLkhLPMngkAAAAA:8BFM9dE1oo8qr_iiOXpZyhTf0-plTFQs2tbRezy_Njqb6aiuCykDYh4Odds7pEGOa1_2RuuefeHduKY)|---|---| 
+|2020|`Frontiers in Robotics and AI`|[Pronto: A multi-sensor state estimator for legged robots in real-world scenarios](https://www.robots.ox.ac.uk/~mobile/drs/Papers/2020FRONTIERS_camurri.pdf)|[![Github stars](https://img.shields.io/github/stars/ori-drs/pronto.svg)](https://github.com/ori-drs/pronto)|---|
+|2020|`IJRR`|[Contact-aided invariant extended Kalman filtering for robot state estimation](https://journals.sagepub.com/doi/pdf/10.1177/0278364919894385?casa_token=dzctF2F3Nb0AAAAA:c21qyyoA6KtBcnsRO6CBHSlcO0lBt6rtxFU16tLmTK3jVOjdlr4x5cMtWF1fLuaf6YSFROwK7vA_N4A)|[![Github stars](https://img.shields.io/github/stars/RossHartley/invariant-ekf.svg)](https://github.com/RossHartley/invariant-ekf)|---| 
+|2019|`RAL`|[Dynamic locomotion on slippery ground](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/355281/1/IROS19___Dynamic_Locomotion_on_Slippery_Ground.pdf)|---|---|
 |2019|`IEEE-RAS 19th international conference on humanoid robots`|[Footstep planning for autonomous walking over rough terrain](https://arxiv.org/pdf/1907.08673)|---|---|
-|2019|`RAL`|[Robust legged robot state estimation using factor graph optimization](https://arxiv.org/pdf/1904.03048)|---|---|
-|2019|`IROS`|Humanoid robot next best view planning under occlusions using body movement primitives|---|---|
+|2019|`RAL`|[Robust legged robot state estimation using factor graph optimization](https://arxiv.org/pdf/1904.03048)|---|[video](https://www.youtube.com/watch?v=p8o7mJPy4_w)|
+|2019|`IROS`|[Humanoid robot next best view planning under occlusions using body movement primitives](https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/blob/pdf/Humanoid_Robot_Next_Best_View_Planning_Under_Occlusions_Using_Body_Movement_Primitives.pdf)|---|---|
+|2018|`RSS`|[Contact-Aided Invariant Extended Kalman Filtering for Legged Robot State Estimation](https://arxiv.org/pdf/1805.10410)|[![Github stars](https://img.shields.io/github/stars/RossHartley/invariant-ekf.svg)](https://github.com/RossHartley/invariant-ekf)|---|
+|2018|`IROS`|[Hybrid contact preintegration for visual-inertial-contact state estimation using factor graphs](https://arxiv.org/pdf/1803.07531)|---|---|
 |2018|`Mechatronics`|[Novel lightweight odometric learning method for humanoid robot localization](https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/blob/pdf/1-s2.0-S0957415818301338-main.pdf)|---|---|
 |2018|`IROS`|[Mit cheetah 3: Design and control of a robust, dynamic quadruped robot](https://dspace.mit.edu/bitstream/handle/1721.1/126619/iros.pdf?sequence=2)|---|---|
+|2018|`ICRA`|[Legged robot state-estimation through combined forward kinematic and preintegrated contact factors](https://arxiv.org/pdf/1712.05873)|---|---|
+|2017|`RSS`|[Heterogeneous sensor fusion for accurate state estimation of dynamic legged robots](https://www.pure.ed.ac.uk/ws/portalfiles/portal/36374655/NobiliCamurriRSS17_3.pdf)|[![Github stars](https://img.shields.io/github/stars/ori-drs/pronto.svg)](https://github.com/ori-drs/pronto) |---|
+|2017|`Ph.D. dissertation`|[State estimation for legged robots-kinematics, inertial sensing, and computer vision](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/129873/ETH24130.pdf)|---|---|
 |2017|`IEEE-RAS 17th International Conference on Humanoid Robotics`|[Efficient coverage of 3D environments with humanoid robots using inverse reachability maps](https://www.cs.columbia.edu/~allen/S19/Student_Papers/coverage_nao_environment.pdf)|---|---|
 |2017|`Intelligent Service Robotics`|[A closed-loop approach for tracking a humanoid robot using particle filtering and depth data](https://upcommons.upc.edu/bitstream/handle/2117/107765/ISR2016v2-CR-submitted.pdf?sequence=1)|---|---| 
+|2017|`RAL`|[Probabilistic contact estimation and impact detection for state estimation of quadruped robots](https://robots.ox.ac.uk/~mfallon/publications/2017RAL_camurri.pdf)|---|---|
+|2016|`Autonomous robots`|[Optimization-based locomotion planning, estimation, and control design for the atlas humanoid robot](https://www.researchgate.net/profile/Hongkai-Dai/publication/282477851_Optimization-based_locomotion_planning_estimation_and_control_design_for_the_atlas_humanoid_robot/links/5614501f08ae983c1b4073ac/Optimization-based-locomotion-planning-estimation-and-control-design-for-the-atlas-humanoid-robot.pdf)|---|---|
 |2016|`IJRR`|[Real-time pose estimation of a dynamic quadruped in GPS-denied environments for 24-hour operation](https://journals.sagepub.com/doi/pdf/10.1177/0278364915587333?casa_token=yLMhh0p_DsoAAAAA:28GnrhizmgotGH4q0DjWKNXJnA4lb-21GdjpeXJDKsDSdDjJg_FPlt9vHaH_XOC4rYfCKER32UXaoAY)|---|---| 
+|2016|`IROS`|[Probabilistic foot contact estimation by fusing information from dynamics and differential/forward kinematics](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/119957/1/eth-49681-01.pdf)|---|---|
 |2016|`IROS`|[Achievement of localization system for humanoid robots with virtual horizontal scan relative to improved odometry fusing internal sensors and visual information](https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/blob/pdf/Achievement_of_localization_system_for_humanoid_robots_with_virtual_horizontal_scan_relative_to_improved_odometry_fusing_internal_sensors_and_visual_information.pdf)|---|---|
 |2016|`Autonomous Robots`|[Humanoid odometric localization integrating kinematic, inertial and visual information](https://iris.uniroma1.it/bitstream/11573/796335/6/796335.pdf)|---|---|
 |2016|`IEEE/SICE International Symposium on System Integration`|[Closed-loop RGB-D SLAM multi-contact control for humanoid robots](https://hal.science/hal-01568048v1/file/iis2016.pdf)|---|---|
 |2016|`ICRA`|[Learning the odometry on a small humanoid robot](https://www.researchgate.net/profile/Steve-Nguyen-2/publication/303885984_Learning_the_odometry_on_a_small_humanoid_robot/links/59e0f7af0f7e9b97fbe1382f/Learning-the-odometry-on-a-small-humanoid-robot.pdf)|[![Github stars](https://img.shields.io/github/stars/Rhoban/IKWalk.svg)](https://github.com/Rhoban/IKWalk)|---|
+|2015|`IROS`|[Multimodal sensor fusion for foot state estimation in bipedal robots using the extended kalman filter](https://ieeexplore.ieee.org/abstract/document/7353746/)|---|---|
+|2015|`International Journal of Humanoid Robotics`|[Estimation and stabilization of humanoid flexibility deformation using only inertial measurement units and contact information](https://hal.science/hal-01169149/document)|---|---| 
 |2015|`Advanced Robotics`|[Dead reckoning for biped robots that suffers less from foot contact condition based on anchoring pivot estimation](https://www.tandfonline.com/doi/pdf/10.1080/01691864.2015.1011694)|---|---|
 |2014|`IROS`|[Dynamic state estimation using quadratic programming](http://www.cs.cmu.edu/~sfeng/xx_iros14.pdf)|---|---|
+|2014|`IROS`|[State estimation for a humanoid robot](https://arxiv.org/pdf/1402.5450)|---|---| 
 |2014|`IEEE-RAS International Conference on Humanoid Robots`|[Drift-free humanoid state estimation fusing kinematic, inertial and lidar sensing](https://www.pure.ed.ac.uk/ws/portalfiles/portal/18903340/14_fallon_humanoids.pdf)|---|---|
 |2013|`IROS`|[State estimation for legged robots on unstable and slippery terrain](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/75852/eth-7743-01.pdf)|---|---|
 |2013|`Robotics`|[State estimation for legged robots-consistent fusion of leg kinematics and IMU](https://infoscience.epfl.ch/server/api/core/bitstreams/bb6c046d-6633-4c8c-8a5f-f8729667c6b6/content)|---|---|
 |2012|`IEEE-RAS International Conference on Humanoid Robots`|[Vision-based odometric localization for humanoids using a kinematic EKF](http://www.diag.uniroma1.it/~labrob/pub/papers/Humanoids2012.pdf)|---|---| 
 |2010|`IEEE/RSJ International Conference on Intelligent Robots and Systems`|[Humanoid robot localization in complex indoor environments](http://www2.informatik.uni-freiburg.de/~wurm/papers/hornung10iros.pdf)|---|---|
-|2009|`IEEE-RAS International Conference on Humanoid Robots`|3D grid and particle based SLAM for a humanoid robot|---|---|
+|2009|`IEEE-RAS International Conference on Humanoid Robots`|[3D grid and particle based SLAM for a humanoid robot](https://ieeexplore.ieee.org/abstract/document/5379602)|---|---|
 |2008|`IEEE-RAS International Conference on Humanoid Robots`|[Autonomous humanoid navigation using laser and odometry data](https://d1wqtxts1xzle7.cloudfront.net/84814066/navigation2008-libre.pdf?1650840576=&response-content-disposition=inline%3B+filename%3DAutonomous_humanoid_navigation_using_las.pdf&Expires=1742998314&Signature=PhG-Jac79p3DdteQuhFeKYbJZhHd01wTVhFGRVwaI3-4XHejDUzPm1bwtv6fHNIMK~ePhalBmacKGeJgh7nMPlNQ44VsY2JojP0dEdnwtdbgpL3JDl6I5gzMRpNDPmwxUQTo8gzIMYpZx5WVccgNizHM7bu0gk1oHP8Zz~Nq5JOwgKim1dI77wvu2pQeVWxv9TyFr0BjXus4p23lx3gA6PLtRqddiwJJ0Sd1plMa-EVRpc3KtvbFdIRgUBtRnm8y37TeAw6PtwWpQ~-4ODqrpEC5M-4Ys1Y9ACnaRU6YVolOkZRYdG~MguXeB8Bg1ElCJhhqxXH49ZoHwH6XOUMtvA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)|---|---|
-|2006|`IEEE-RAS International Conference on Humanoid Robots`|Localisation for autonomous humanoid navigation|---|---|
+|2006|`IEEE-RAS International Conference on Humanoid Robots`|[Localisation for autonomous humanoid navigation](https://ieeexplore.ieee.org/abstract/document/4115574)|---|---|
 |2006|`IEEE/RSJ International Conference on Intelligent Robots and Systems`|[Real-time 3d slam for humanoid robot considering pattern generator information](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8f13256fa676153aafccad3e32dabbfec1fce32a)|---|---|
-|2005|`IEEE-RAS International Conference on Humanoid Robots`|Humanoid robot localisation using stereo vision|---|---|
+|2005|`IEEE-RAS International Conference on Humanoid Robots`|[Humanoid robot localisation using stereo vision](https://ieeexplore.ieee.org/abstract/document/1573539/)|---|---|
+|2005|`TRO`|[A leg configuration measurement system for full-body pose estimates in a hexapod robot](https://core.ac.uk/download/pdf/76389503.pdf)|---|---|
 
 
 
