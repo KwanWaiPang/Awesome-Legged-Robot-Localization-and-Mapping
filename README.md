@@ -66,7 +66,7 @@ Feel free to share this list with others!
 * [Reproduction and Learning of LOAM Series](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
 * [Awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 * [Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
-* Overview of Humanoid Robots and 3D SLAM Works (in the PPT)：
+* Overview of Humanoid Robots and some Excellent 3D SLAM Works：
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
