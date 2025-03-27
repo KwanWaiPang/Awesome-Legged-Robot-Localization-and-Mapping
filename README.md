@@ -21,7 +21,7 @@ Feel free to share this list with others!
         <img src="https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/raw/pdf/Legged%20Robot.jpg" width="100%" />
       </td>
       <td style="width: 50%; border: none; padding: 0.01; background-color: transparent; vertical-align: middle;">
-        <img src="https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/raw/pdf/Humanoid%20robot.jpg" width="100%" />
+        <img src="https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/raw/pdf/Humanoid%20robot.jpg" width="50%" />
       </td>
     </tr>
   </table>
