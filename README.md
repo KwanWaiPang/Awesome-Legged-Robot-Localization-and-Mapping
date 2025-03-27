@@ -30,7 +30,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`IEEE Signal Processing Letters`|[A 3D reconstruction and relocalization method for humanoid welding robots](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping/blob/pdf/A_3D_Reconstruction_and_Relocalization_Method_for_Humanoid_Welding_Robots.pdf)|---|---|
+|2025|`IEEE Signal Processing Letters`|[A 3D reconstruction and relocalization method for humanoid welding robots](https://ieeexplore.ieee.org/abstract/document/10900432)|---|---|
 |2024|`arXiv`|[Navila: Legged robot vision-language-action model for navigation](https://arxiv.org/pdf/2412.04453)|[![Github stars](https://img.shields.io/github/stars/yang-zj1026/legged-loco.svg)](https://github.com/yang-zj1026/legged-loco)|[website](https://navila-bot.github.io/)|
 |2024|`RAL`|[Leg-KILO: Robust Kinematic-Inertial-Lidar Odometry for Dynamic Legged Robots](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping/blob/pdf/Leg-KILO%20Robust%20Kinematic-Inertial-Lidar%20Odometry%20for%20Dynamic%20Legged%20Robots.pdf)|[![Github stars](https://img.shields.io/github/stars/ouguangjun/Leg-KILO.svg)](https://github.com/ouguangjun/Leg-KILO)|[dataset](https://github.com/ouguangjun/legkilo-dataset)|
 |2024|`ICRA`|[Optistate: State estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/pdf/2401.16719)|[![Github stars](https://img.shields.io/github/stars/AlexS28/OptiState.svg)](https://github.com/AlexS28/OptiState)|---|
