@@ -91,7 +91,11 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Humanoid locomotion and manipulation: Current progress and challenges in control, planning, and learning](https://arxiv.org/pdf/2501.02116)|---|---|
 |2024|`IEEE/CAA Journal of Automatica Sinica`|[Advancements in humanoid robots: A comprehensive review and future prospects](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.124140)|---|---|
+|2024|`arXiv`|[Exbody2: Advanced expressive humanoid whole-body control](https://arxiv.org/pdf/2412.13196?)|---|[website](https://exbody2.github.io/)| 
+|2024|`CoRL`|[Visual whole-body control for legged loco-manipulation](https://arxiv.org/pdf/2403.16967)|[![Github stars](https://img.shields.io/github/stars/Ericonaldo/visual_wholebody.svg)](https://github.com/Ericonaldo/visual_wholebody)|[website](https://wholebody-b1.github.io/)|
+|2022|`Field Robotics`|[Cerberus: Autonomous legged and aerial robotic exploration in the tunnel and urban circuits of the darpa subterranean challenge](https://d1wqtxts1xzle7.cloudfront.net/84655738/2201.07067-libre.pdf?1650599141=&response-content-disposition=inline%3B+filename%3DCERBERUS_Autonomous_Legged_and_Aerial_Ro.pdf&Expires=1743056230&Signature=Kau5sbITIQY8t44-b22CcAmkb0ODESA4oYnMPghfJLqMrtO-ZVxKvacw0zHU-zJ59NcQ2l8mHEbBQXp55sXoSJWg6CTO52KY2Hwd3Bo3hs1UfW8WhStxS-mQmDPF-AFqlgBjuH8iwrOtVETkUuUuOlf8iPGSlvQpNurkGUftuF70esjD~Yex-fyQlmIOX0xazfrE8IAnAlrHV7E94lpD7cvNOnDtQvL6kBq7Je8owcH2ikqcJBIDe1yUbO42S~dC5J50aR57mO0cy61PdUl2hxcNnSnF8yFcEgDrRrIDcaI5ULF4NFQR0jODcS0evpmag~dmfOmgU4dQkbDj04AQIA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)|---|---| 
 |2024|`TPAMI`|[R3LIVE++: A Robust, Real-time, Radiance Reconstruction Package with a Tightly-coupled LiDAR-Inertial-Visual State Estimator](https://arxiv.org/pdf/2209.03666)|[![Github stars](https://img.shields.io/github/stars/hku-mars/r3live.svg)](https://github.com/hku-mars/r3live)|dataset [![Github stars](https://img.shields.io/github/stars/ziv-lin/r3live_dataset.svg)](https://github.com/ziv-lin/r3live_dataset)|
+|2023|`IROS`|[Event camera-based visual odometry for dynamic motion tracking of a legged robot using adaptive time surface](https://arxiv.org/pdf/2305.08962)|---|[demo](https://www.youtube.com/watch?v=-5ieQSh0g3M&feature=youtu.be)|
 |2022|`ICRA`|[R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package](https://arxiv.org/pdf/2109.07982)|[![Github stars](https://img.shields.io/github/stars/hku-mars/r3live.svg)](https://github.com/hku-mars/r3live)|---|
 |2021|`RAL`|[R2LIVE: A Robust, Real-Time, LiDAR-Inertial-Visual Tightly-Coupled State Estimator and Mapping](https://arxiv.org/pdf/2102.12400)|[![Github stars](https://img.shields.io/github/stars/hku-mars/r2live.svg)](https://github.com/hku-mars/r2live)|---|
 |2024|`TRO`|[FAST-LIVO2: Fast, Direct LiDAR–Inertial–Visual Odometry](https://arxiv.org/pdf/2408.14035)|[![Github stars](https://img.shields.io/github/stars/hku-mars/FAST-LIVO2.svg)](https://github.com/hku-mars/FAST-LIVO2)|---|
@@ -111,8 +115,5 @@ Feel free to share this list with others!
 |2019|`arXiv`|[A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors](https://arxiv.org/pdf/1901.03642)|[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Fusion.svg)](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)|VINS-Fusion|
 |2018|`TRO`|[Vins-mono: A robust and versatile monocular visual-inertial state estimator](https://arxiv.org/pdf/1708.03852)|[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Mono.svg)](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |---|
 |2014|`Robotics: Science and systems`|[LOAM: Lidar odometry and mapping in real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)|---|non-official A-LOAM<br>[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/A-LOAM.svg)](https://github.com/HKUST-Aerial-Robotics/A-LOAM)|
-
-
-
 # Acknowledgement
 Thanks [Ji MA](https://github.com/Astrorix) for his help. 
