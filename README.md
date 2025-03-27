@@ -72,14 +72,14 @@ Feel free to share this list with others!
 
 
 # Related Resource
-* Survey for Learning-based VO,VIO,IO：[Paper List](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) and [Blog](https://kwanwaipang.github.io/Learning-based-VO-VIO/)
-* Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) and [Blog](https://kwanwaipang.github.io/Transformer_SLAM/)
-* Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) and [Blog](https://kwanwaipang.github.io/Diffusion_SLAM/)
+* Survey for Learning-based VO,VIO,IO：[Paper List](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) 
+* Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) 
+* Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
 * Survey for NeRF-based SLAM：[Blog](https://kwanwaipang.github.io/Awesome-NeRF-SLAM/)
 * Survey for 3DGS-based SLAM: [Blog](https://kwanwaipang.github.io/File/Blogs/Poster/survey_3DGS_SLAM.html)
 * Survey for Deep IMU-Bias Inference [Blog](https://kwanwaipang.github.io/Deep-IMU-Bias/)
-* [Paper Survey for Degeneracy for LiDAR-based SLAM](https://kwanwaipang.github.io/Lidar_Degeneracy/)
-* [Reproduction and Learning of LOAM Series](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
+* [Paper Survey for Degeneracy of LiDAR-SLAM](https://kwanwaipang.github.io/Lidar_Degeneracy/)
+* [Reproduction and Learning for LOAM Series](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
 * [Awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 * [Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 * Overview of Humanoid Robots and some Excellent 3D SLAM Works：
