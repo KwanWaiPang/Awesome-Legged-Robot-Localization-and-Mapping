@@ -1,10 +1,10 @@
 <p align="center">
   <h1 align="center">
-  Awesome SLAM for Humanoid/Legged Robot 
+  Awesome SLAM for Legged Robot 
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing the SLAM methods sepcially designed for humanoid /legged robot 
+This repository contains a curated list of resources addressing the SLAM methods sepcially designed for humanoid /quadruped robot 
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Humanoid-Robot-Localization-and-Mapping/issues/new)**. 
 
