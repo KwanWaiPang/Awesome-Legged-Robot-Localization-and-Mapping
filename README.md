@@ -46,6 +46,7 @@ Feel free to share this list with others!
 |2022|`RAL`|[Step: State estimator for legged robots using a preintegrated foot velocity factor](https://arxiv.org/pdf/2202.05572)|---|---|
 |2022|`Conference on robot learning`|[Learning inertial odometry for dynamic legged robot state estimation](https://proceedings.mlr.press/v164/buchanan22a/buchanan22a.pdf)|---|---| 
 |2022|`arXiv`|[A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors](https://arxiv.org/pdf/2211.14432)|[![Github stars](https://img.shields.io/github/stars/jerredchen/A1_SLAM.svg)](https://github.com/jerredchen/A1_SLAM)|---|
+|2021|`arXiv`|[WALK-VIO: Walking-motion-adaptive leg kinematic constraint visual-inertial odometry for quadruped robots](https://arxiv.org/pdf/2111.15164)|---|---|
 |2021|`IEEE Sensors Letters`|[On state estimation for legged locomotion over soft terrain](https://arxiv.org/pdf/2101.02279)|---|---|
 |2021|`ICRA`|[Legged robot state estimation in slippery environments using invariant extended kalman filter with velocity update](https://arxiv.org/pdf/2104.04238)|---|[video](https://www.youtube.com/watch?v=VIqJL0cUr7s)| 
 |2021|`ICRA`|[Contact forces preintegration for estimation in legged robotics using factor graphs](https://hal.science/hal-02991717v1/file/ICRA_2021_MFourmy.pdf)|---|---| 
