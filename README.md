@@ -15,7 +15,7 @@ If you find this repositorie is useful, a simple star should be the best affirma
 Feel free to share this list with others!
 
 <div align="center">
-<img src="https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/raw/pdf/Legged%20Robot.jpg" width="55%" />
+<img src="https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/raw/pdf/Legged%20Robot.jpg" width="52%" />
 <img src="https://github.com/KwanWaiPang/Awesome-Humanoid-Robot-Localization-and-Mapping/raw/pdf/Humanoid%20robot.jpg" width="40%" />
 </div>
 <div align="center">
