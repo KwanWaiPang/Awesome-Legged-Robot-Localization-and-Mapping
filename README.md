@@ -38,6 +38,7 @@ Feel free to share this list with others!
 |2023|`ICRA`|[Visual-inertial and leg odometry fusion for dynamic locomotion](https://arxiv.org/pdf/2210.02127)|---|---| 
 |2023|`ICRA`|[Cerberus: Low-drift visual-inertial-leg odometry for agile locomotion](https://arxiv.org/pdf/2209.07654)|[![Github stars](https://img.shields.io/github/stars/ShuoYangRobotics/Cerberus.svg)](https://github.com/ShuoYangRobotics/Cerberus)|---|
 |2023|`RAL`|[Tunable impact and vibration absorbing neck for robust visual-inertial state estimation for dynamic legged robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10027207)|---|---|
+|2023|`TRO`|[Invariant smoother for legged robot state estimation with dynamic contact event information](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10301546)|---|---|
 |2023|`International Conference on Robotics and Mechatronics`|[Comparative evaluation of rgb-d slam methods for humanoid robot localization and mapping](https://arxiv.org/pdf/2401.02816)|---|---|
 |2023|`TASE`|[Humanoid loco-manipulations using combined fast dense 3D tracking and SLAM with wide-angle depth-images](https://hal.science/hal-04125159v1/file/2023_TASE_Chappellet.pdf)|---|---|
 |2022|`ICRA`|[Periodic SLAM: Using cyclic constraints to improve the performance of visual-inertial SLAM on legged robots](https://par.nsf.gov/servlets/purl/10335323)|---|[video](https://www.youtube.com/watch?v=QygyDjVy5nY)|
