@@ -110,6 +110,7 @@ Feel free to share this list with others!
 * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
 * [Awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 * [Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+* FAST_LIO_LOCALIZATION_HUMANOID: [Github](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID)
 * Overview of Humanoid Robots and some Excellent 3D SLAM Works：
 
 <!-- |---|`arXiv`|---|---|---| -->
