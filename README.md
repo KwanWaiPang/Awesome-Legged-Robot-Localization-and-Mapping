@@ -29,6 +29,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information](https://arxiv.org/pdf/2506.09548?)|---|[website](https://takuokawara.github.io/RAL2025_project_page/)|
 |2025|`IEEE Internet of Things Journal`|[An Inertial Odometry and Enhanced Occupancy Grid Inertial SLAM for Legged Robots](https://ieeexplore.ieee.org/abstract/document/11030803)|---|---|
 |2025|`arXiv`|[Holistic Fusion: Task-and Setup-Agnostic Robot Localization and State Estimation with Factor Graphs](https://arxiv.org/pdf/2504.06479)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/holistic_fusion.svg)](https://github.com/leggedrobotics/holistic_fusion)|[website](https://leggedrobotics.github.io/holistic_fusion/)| 
 |2025|`IEEE Signal Processing Letters`|[A 3D reconstruction and relocalization method for humanoid welding robots](https://ieeexplore.ieee.org/abstract/document/10900432)|---|---|
