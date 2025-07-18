@@ -14,6 +14,7 @@ If you find this repository useful, a simple star should be the best affirmation
 
 Feel free to share this list with others!
 
+
 <div align="center">
 <img src="https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping/raw/pdf/Legged%20Robot.jpg" width="52%" />
 <img src="https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping/raw/pdf/Humanoid%20robot.jpg" width="40%" />
