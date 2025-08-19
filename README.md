@@ -30,6 +30,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[LVI-Q: Robust LiDAR-Visual-Inertial-Kinematic Odometry for Quadruped Robots Using Tightly-Coupled and Efficient Alternating Optimization](https://ieeexplore.ieee.org/abstract/document/11123716)|---|---|
 |2025|`arXiv`|[GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics](https://arxiv.org/pdf/2503.14247)|[![Github stars](https://img.shields.io/github/stars/HorizonRobotics/GeoFlowSlam.svg)](https://github.com/HorizonRobotics/GeoFlowSlam)|---|
 |2025|`RAL`|[Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information](https://arxiv.org/pdf/2506.09548?)|---|[website](https://takuokawara.github.io/RAL2025_project_page/)|
 |2025|`IEEE Internet of Things Journal`|[An Inertial Odometry and Enhanced Occupancy Grid Inertial SLAM for Legged Robots](https://ieeexplore.ieee.org/abstract/document/11030803)|---|---|
