@@ -30,7 +30,6 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`ICRA`|[Diter++: Diverse terrain and multi-modal dataset for multi-robot slam in multi-session environments](https://arxiv.org/pdf/2412.05839)|[![Github stars](https://img.shields.io/github/stars/sparolab/DiTer-plusplus.svg)](https://github.com/sparolab/DiTer-plusplus)|[dataset website](https://sites.google.com/view/diter-plusplus/)|
 |2025|`RAL`|[LVI-Q: Robust LiDAR-Visual-Inertial-Kinematic Odometry for Quadruped Robots Using Tightly-Coupled and Efficient Alternating Optimization](https://ieeexplore.ieee.org/abstract/document/11123716)|---|---|
 |2025|`arXiv`|[GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics](https://arxiv.org/pdf/2503.14247)|[![Github stars](https://img.shields.io/github/stars/HorizonRobotics/GeoFlowSlam.svg)](https://github.com/HorizonRobotics/GeoFlowSlam)|---|
 |2025|`RAL`|[Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information](https://arxiv.org/pdf/2506.09548?)|---|[website](https://takuokawara.github.io/RAL2025_project_page/)|
@@ -158,6 +157,15 @@ Feel free to share this list with others!
 |2019|`arXiv`|[A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors](https://arxiv.org/pdf/1901.03642)|[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Fusion.svg)](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)|VINS-Fusion|
 |2018|`TRO`|[Vins-mono: A robust and versatile monocular visual-inertial state estimator](https://arxiv.org/pdf/1708.03852)|[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Mono.svg)](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) |---|
 |2014|`RSS`|[LOAM: Lidar odometry and mapping in real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)|---|non-official A-LOAM<br>[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/A-LOAM.svg)](https://github.com/HKUST-Aerial-Robotics/A-LOAM)|
+
+
+* Public dataset for legged robot
+
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICRA`|[Diter++: Diverse terrain and multi-modal dataset for multi-robot slam in multi-session environments](https://arxiv.org/pdf/2412.05839)|[![Github stars](https://img.shields.io/github/stars/sparolab/DiTer-plusplus.svg)](https://github.com/sparolab/DiTer-plusplus)|[dataset website](https://sites.google.com/view/diter-plusplus/)|
 
 # Acknowledgement
 Thanks [Ji MA](https://github.com/Astrorix) for his help and advice. 
