@@ -173,6 +173,7 @@ Feel free to share this list with others!
 |2024|`IEEE Sensors Letters`|[Diter: Diverse terrain and multimodal dataset for field robot navigation in outdoor environments](https://construction-robots.github.io/papers/37.pdf)|---|[website](https://sites.google.com/inha.edu/diter/)|
 |2024|`RAL`|[Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments](https://arxiv.org/pdf/2404.13600)|---|[websit](https://tailrobot.github.io/)|
 |2023|`CVPR`|[M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/m3ed.svg)](https://github.com/daniilidis-group/m3ed)|[website](https://m3ed.io/)| 
+|2022|`arXiv`|[TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation](https://arxiv.org/pdf/2505.10696v1)|[![Github stars](https://img.shields.io/github/stars/castacks/tartanairpy.svg)](https://github.com/castacks/tartanairpy)|[website](https://tartanair.org/tartanground)|
 
 # Acknowledgement
 Thanks [Ji MA](https://github.com/Astrorix) for his help and advice. 
