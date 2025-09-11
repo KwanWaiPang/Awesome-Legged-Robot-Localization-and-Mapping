@@ -159,13 +159,16 @@ Feel free to share this list with others!
 |2014|`RSS`|[LOAM: Lidar odometry and mapping in real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)|---|non-official A-LOAM<br>[![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/A-LOAM.svg)](https://github.com/HKUST-Aerial-Robotics/A-LOAM)|
 
 
-* Public dataset for legged robot
+* Public dataset for legged robot:
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IJRR`|[Fusionportablev2: A unified multi-sensor dataset for generalized slam across diverse platforms and scalable environments](https://journals.sagepub.com/doi/pdf/10.1177/02783649241303525)|---|[website](https://fusionportable.github.io/dataset/fusionportable_v2/)|
 |2025|`ICRA`|[Diter++: Diverse terrain and multi-modal dataset for multi-robot slam in multi-session environments](https://arxiv.org/pdf/2412.05839)|[![Github stars](https://img.shields.io/github/stars/sparolab/DiTer-plusplus.svg)](https://github.com/sparolab/DiTer-plusplus)|[dataset website](https://sites.google.com/view/diter-plusplus/)|
+|2024|`IEEE Sensors Letters`|[Diter: Diverse terrain and multimodal dataset for field robot navigation in outdoor environments](https://construction-robots.github.io/papers/37.pdf)|---|[website](https://sites.google.com/inha.edu/diter/)|
+|2023|`CVPR`|[M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/m3ed.svg)](https://github.com/daniilidis-group/m3ed)|[website](https://m3ed.io/)| 
 
 # Acknowledgement
 Thanks [Ji MA](https://github.com/Astrorix) for his help and advice. 
