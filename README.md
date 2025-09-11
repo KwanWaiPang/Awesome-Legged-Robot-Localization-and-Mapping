@@ -166,6 +166,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RSS`|[Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics](https://arxiv.org/pdf/2504.18500)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/grand_tour_dataset.svg)](https://github.com/leggedrobotics/grand_tour_dataset)|[website](https://grand-tour.leggedrobotics.com/)|
 |2025|`IJRR`|[Fusionportablev2: A unified multi-sensor dataset for generalized slam across diverse platforms and scalable environments](https://journals.sagepub.com/doi/pdf/10.1177/02783649241303525)|---|[website](https://fusionportable.github.io/dataset/fusionportable_v2/)|
 |2025|`ICRA`|[Diter++: Diverse terrain and multi-modal dataset for multi-robot slam in multi-session environments](https://arxiv.org/pdf/2412.05839)|[![Github stars](https://img.shields.io/github/stars/sparolab/DiTer-plusplus.svg)](https://github.com/sparolab/DiTer-plusplus)|[dataset website](https://sites.google.com/view/diter-plusplus/)|
 |2024|`RAL`|[CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots](https://arxiv.org/pdf/2404.04698)|---|[website](https://daroslab.github.io/cear/)| 
