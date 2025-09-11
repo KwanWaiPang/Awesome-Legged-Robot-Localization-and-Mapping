@@ -167,6 +167,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`IJRR`|[Fusionportablev2: A unified multi-sensor dataset for generalized slam across diverse platforms and scalable environments](https://journals.sagepub.com/doi/pdf/10.1177/02783649241303525)|---|[website](https://fusionportable.github.io/dataset/fusionportable_v2/)|
 |2025|`ICRA`|[Diter++: Diverse terrain and multi-modal dataset for multi-robot slam in multi-session environments](https://arxiv.org/pdf/2412.05839)|[![Github stars](https://img.shields.io/github/stars/sparolab/DiTer-plusplus.svg)](https://github.com/sparolab/DiTer-plusplus)|[dataset website](https://sites.google.com/view/diter-plusplus/)|
+|2024|`RAL`|[CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots](https://arxiv.org/pdf/2404.04698)|---|[website](https://daroslab.github.io/cear/)| 
 |2024|`IEEE Sensors Letters`|[Diter: Diverse terrain and multimodal dataset for field robot navigation in outdoor environments](https://construction-robots.github.io/papers/37.pdf)|---|[website](https://sites.google.com/inha.edu/diter/)|
 |2023|`CVPR`|[M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/m3ed.svg)](https://github.com/daniilidis-group/m3ed)|[website](https://m3ed.io/)| 
 
