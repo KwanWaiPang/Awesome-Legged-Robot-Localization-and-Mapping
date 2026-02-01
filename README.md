@@ -138,6 +138,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`SRO`|[Resilient odometry via hierarchical adaptation](https://www.science.org/stoken/author-tokens/ST-3125/full)|[![Github stars](https://img.shields.io/github/stars/superxslam/SuperOdom.svg)](https://github.com/superxslam/SuperOdom) |[website](https://superodometry.com/)<br>Super Odometry|
 |2025|`TRO`|[OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS](https://arxiv.org/pdf/2510.04612)|[![Github stars](https://img.shields.io/github/stars/ethz-mrl/OKVIS2-X.svg)](https://github.com/ethz-mrl/OKVIS2-X)|---|
 |2025|`RAL`|[Voxel-SVIO: Stereo Visual-Inertial Odometry based on Voxel Map](https://ieeexplore.ieee.org/abstract/document/10993347/)|[![Github stars](https://img.shields.io/github/stars/ZikangYuan/voxel_svio.svg)](https://github.com/ZikangYuan/voxel_svio)|---| 
 |2024|`TPAMI`|[R3LIVE++: A Robust, Real-time, Radiance Reconstruction Package with a Tightly-coupled LiDAR-Inertial-Visual State Estimator](https://arxiv.org/pdf/2209.03666)|[![Github stars](https://img.shields.io/github/stars/hku-mars/r3live.svg)](https://github.com/hku-mars/r3live)|dataset [![Github stars](https://img.shields.io/github/stars/ziv-lin/r3live_dataset.svg)](https://github.com/ziv-lin/r3live_dataset)|
