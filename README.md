@@ -138,6 +138,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`RAL`|[R-VoxelMap: Accurate Voxel Mapping With Recursive Plane Fitting for Online LiDAR Odometry](https://arxiv.org/pdf/2601.12377)|[![Github stars](https://img.shields.io/github/stars/NKU-MobFly-Robotics/R-VoxelMap.svg)](https://github.com/NKU-MobFly-Robotics/R-VoxelMap)|---|
 |2025|`SRO`|[Resilient odometry via hierarchical adaptation](https://www.science.org/stoken/author-tokens/ST-3125/full)|[![Github stars](https://img.shields.io/github/stars/superxslam/SuperOdom.svg)](https://github.com/superxslam/SuperOdom) |[website](https://superodometry.com/)<br>Super Odometry,按需分层机制1. 自适应特征选择(针对视觉退化，优先过滤掉不可靠的视觉观测)；2、自适应状态方向选择（针对雷达退化，识别并补强最弱的位姿方向）；3、自适应引擎（因子）选择（针对视觉与雷达都退化的场景，动态决定哪些传感器因子应参与优化）；4、Learning-based IMU odometry（完全退化时，IMU接管，作为兜底,训练数据覆盖轮式、腿式、无人机、手持设备等多种载体，总时长超过 100 小时））|
 |2025|`TRO`|[OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS](https://arxiv.org/pdf/2510.04612)|[![Github stars](https://img.shields.io/github/stars/ethz-mrl/OKVIS2-X.svg)](https://github.com/ethz-mrl/OKVIS2-X)|---|
 |2025|`RAL`|[Voxel-SVIO: Stereo Visual-Inertial Odometry based on Voxel Map](https://ieeexplore.ieee.org/abstract/document/10993347/)|[![Github stars](https://img.shields.io/github/stars/ZikangYuan/voxel_svio.svg)](https://github.com/ZikangYuan/voxel_svio)|---| 
