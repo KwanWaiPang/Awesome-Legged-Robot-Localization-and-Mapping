@@ -30,6 +30,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`IEEE TMECH`|[KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots](https://arxiv.org/pdf/2608.05647)|[![Github stars](https://img.shields.io/github/stars/JixinGao/KILVO.svg)](https://github.com/JixinGao/KILVO)|人形专用运动学-惯性-雷达-视觉里程计。IMU 预测，腿运动学 1 kHz 异步更新，外感知 10 Hz 先点到平面雷达、再光度视觉；无额外接触传感器，用冲击偏差与足端离地估计双足接触；传感器失效时可在全模态 / KIL / KI / LIV / LI 间切换。|
 |2025|`RAS`|[Terrain-based place recognition for LiDAR SLAM of quadruped robots with limited field-of-view measurements](https://www.sciencedirect.com/science/article/pii/S0921889025004129)|---|---|
 |2025|`TRO`|[MARG: MAstering Risky Gap Terrains for Legged Robots with Elevation Mapping](https://arxiv.org/pdf/2509.20036)|---|[website](https://astrorix.github.io/MARG/)| 
 |2025|`RAL`|[LVI-Q: Robust LiDAR-Visual-Inertial-Kinematic Odometry for Quadruped Robots Using Tightly-Coupled and Efficient Alternating Optimization](https://ieeexplore.ieee.org/abstract/document/11123716)|---|---|
